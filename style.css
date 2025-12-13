@@ -376,6 +376,9 @@ footer{
         gap: 50px;
     
     }
+    .footer-container img{
+        width: 50px;
+    }
     .footer-text{
         display: flex;
         grid-template-columns: 1fr;

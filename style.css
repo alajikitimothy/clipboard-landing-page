@@ -242,6 +242,12 @@ footer{
         font-weight: 500;
         line-height: 18px;
     }
+    .button{
+        margin-top: 20px;
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+    }
     .button a{
         text-decoration: none;
         color: white;
